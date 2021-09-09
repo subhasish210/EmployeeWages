@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\bin\Debug\netcoreapp3.1\Day4_UC3.exe
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\bin\Debug\netcoreapp3.1\Day4_UC3.deps.json
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\bin\Debug\netcoreapp3.1\Day4_UC3.runtimeconfig.json
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\bin\Debug\netcoreapp3.1\Day4_UC3.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\bin\Debug\netcoreapp3.1\Day4_UC3.dll
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\bin\Debug\netcoreapp3.1\Day4_UC3.pdb
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\obj\Debug\netcoreapp3.1\Day4_UC3.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\obj\Debug\netcoreapp3.1\Day4_UC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\obj\Debug\netcoreapp3.1\Day4_UC3.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\obj\Debug\netcoreapp3.1\Day4_UC3.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\obj\Debug\netcoreapp3.1\Day4_UC3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\obj\Debug\netcoreapp3.1\Day4_UC3.dll
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\obj\Debug\netcoreapp3.1\Day4_UC3.pdb
+C:\Users\DELL\source\repos\Day4_UC3_Solutions\Day4_UC3\obj\Debug\netcoreapp3.1\Day4_UC3.genruntimeconfig.cache
